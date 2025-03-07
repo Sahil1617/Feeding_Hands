@@ -18,13 +18,14 @@
     </ul>
     <h2>🛠️ Tech Stack</h2>
     <ul>
-        <li>🔹 <strong>Geolocation & Mapping:</strong> Mapbox for real-time tracking & optimized routes</li>
+        <li>🔹 <strong>Geolocation & Mapping:</strong> MapTiler for real-time tracking & optimized routes</li>
         <li>🔹 <strong>Cloud Storage & File Uploads:</strong> Cloudinary, Multer for managing images/videos</li>
         <li>🔹 <strong>Authentication & Security:</strong> Passport.js, Express-session, JWT for secure access</li>
         <li>🔹 <strong>Database & Data Validation:</strong> MongoDB, Mongoose, Joi for structured storage</li>
         <li>🔹 <strong>Backend Framework:</strong> Node.js, Express.js for robust performance</li>
         <li>🔹 <strong>Frontend UI:</strong> EJS templating for dynamic content</li>
         <li>🔹 <strong>Payment Integration:</strong> Stripe for easy donations</li>
+        <li>🔹 <strong>Email Integration:</strong> NodeMailer for realtime notifications</li>
     </ul>
     <h2>🎯 How It Works</h2>
     <ol>
