@@ -48,7 +48,7 @@
     <p>Let's create a world where <strong>no food goes to waste & no one sleeps hungry</strong>! 🌍❤️</p>
     <p>🚀 Join us in this mission! #FeedingHands</p>
     <h2>🌍 Visit Our Site</h2>
-<p>🤝 Visit our site on: <a href="https://feeding-hands.onrender.com" target="_blank">Feeding Hands</a></p>
+<p>🤝 Visit our site on: <a href="https://feeding-hands.onrender.com" target="_blank">https://feeding-hands.onrender.com</a></p>
 
 
 
