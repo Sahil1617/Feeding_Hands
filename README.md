@@ -34,12 +34,6 @@
         <li>3️⃣ <strong>Pickup & Delivery</strong> 🚗 - NGOs/individuals collect the food at a scheduled time and deliver it to those in need.</li>
         <li>4️⃣ <strong>Make an Impact</strong> 🤝 - Every meal saved contributes to <strong>a world with less waste & more hope</strong>!</li>
     </ol>
-    <h2>👥 Meet the Team: <strong>HackXplore</strong></h2>
-    <ul>
-        <li>- <strong>Sahil Jadhav</strong></li>
-        <li>- <strong>Purva Jadhav</strong></li>
-        <li>- <strong>Prerana Biradar</strong></li>
-    </ul>
     <h2>📢 Why FeedingHands Matters</h2>
     <ul>
         <li>💰 <strong>Cost Savings for Businesses</strong>: Reduces food disposal expenses.</li>
